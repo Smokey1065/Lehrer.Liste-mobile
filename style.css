@@ -22,7 +22,8 @@ body {
         lightgreen
     );
     color: white;
-
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .tbody {
